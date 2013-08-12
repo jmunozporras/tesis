@@ -1,0 +1,7 @@
+\select@language {spanish}
+\contentsline {chapter}{Introducci\'on}{\es@scroman {v}}
+\contentsline {chapter}{\numberline {1}Definiciones}{1}
+\contentsline {chapter}{\numberline {2}Generalizaciones de n\'ucleos en digr\'aficas $m$-coloreadas con clases crom\'aticas cuasi-transitivas}{9}
+\contentsline {section}{\numberline {2.1}La cerradura de una digr\'afica}{9}
+\contentsline {section}{\numberline {2.2}N\'ucleos por trayectorias monocrom\'aticas}{10}
+\contentsline {section}{\numberline {2.3}Resultados}{11}
